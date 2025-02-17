@@ -66,3 +66,9 @@ entar
 ```bash
 workspace select (nombre del trabajo)
 ```
+
+subir reporte 
+
+faraday import --file (ruta del reporte
+)
+
