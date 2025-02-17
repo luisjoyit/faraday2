@@ -46,3 +46,23 @@ inicamos copiasmo la url de faday server y la contraseña y el usuario sacamso e
 export FARADAY_SERVER=http://localhost:5985
 faraday-cli auth
 ```
+entrar
+```bash
+faraday-cli
+```
+
+
+ver todos los trabjos 
+```bash
+workspace list
+```
+
+crear 
+```bash
+workspace create (nombre del nuevo trabajo)
+```
+
+entar 
+```bash
+workspace select (nombre del trabajo)
+```
