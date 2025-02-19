@@ -68,7 +68,15 @@ workspace select (nombre del trabajo)
 ```
 
 subir reporte 
+```bash
+ tool report (ruta )
+```
+ejemplo recuerd que en la wsl es un entorno ubuntu  
 
-faraday import --file (ruta del reporte
-)
+
+--
+```bash
+ tool report /mnt/c/Users/aa/desktop/tes/C:\Users\aa\zap_reports\zap_report.xml
+```
+
 
